@@ -13,4 +13,4 @@ The Soto racks are designed to be printed on a CNC router.  A 1/4" end mill bit 
 Version 1.0 is assembled with nails.
 Version 1.1 is assembled with machine screws and can be unassembled.
 
-[![Analytics](https://ga-beacon.appspot.com/UA-47061464-1/soto-board-rack/readme)](https://github.com/igrigorik/ga-beacon)
+[![Analytics](https://ga-beacon.appspot.com/UA-47061464-1/github-soto-board-rack/readme?pixel)]
